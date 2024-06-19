@@ -1,6 +1,5 @@
-<h1 align="center">
-  I'm ozilpr, Nice to meet you! <span><img src="https://github.com/ozilpr/ozilpr/blob/main/917072473021874226.gif" width="40" height="40" /></span>
-</h1>
+<img src="https://github.com/ozilpr/ozilpr/blob/main/917072473021874226.gif" width="40" height="40" /> <img src="https://komarev.com/ghpvc/?username=ozilpr&label=Profile%20views&color=0e75b6&style=flat-square" align="right" alt="ozilpr" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=%23F7F8FF&multiline=true&width=1000&height=30&lines=Hi%2C+I'm+Ozilpr%2C+Nice+to+meet+you!)](https://git.io/typing-svg)
+
 <!--
 ## Hi there 👋
 **ozilpr/ozilpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -91,10 +90,6 @@ Here are some ideas to get you started:
 [<img src="https://www.codewars.com/users/ozilpr/badges/small">](https://www.codewars.com/users/ozilpr/)
 
 <p></p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ozilpr&label=Profile%20views&color=0e75b6&style=flat" alt="ozilpr" />
-</p>
 
 <h2></h2>
 
