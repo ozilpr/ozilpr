@@ -82,7 +82,10 @@ Here are some ideas to get you started:
 <h2></h2>
 
 <h3 align="left">Stats:</h3>
-<p>&nbsp;
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozilpr&show_icons=true&locale=en&layout=compact" alt="ozilpr" />
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozilpr&show_icons=true&locale=en" alt="ozilpr" />
 </p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozilpr&theme=default" alt="ozilpr" />
